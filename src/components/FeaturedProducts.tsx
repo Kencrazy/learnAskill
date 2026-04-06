@@ -3,24 +3,24 @@ import { EtsyProduct } from '../types';
 
 const etsyProducts: EtsyProduct[] = [
   {
-    name: 'Custom Cups',
-    imageUrl: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=400',
-    link: 'https://etsy.com/shop/yourshop/cups'
+    name: 'Woven Blanket',
+    imageUrl: 'https://i.etsystatic.com/64850837/r/il/537ace/7765224158/il_1588xN.7765224158_83li.jpg',
+    link: 'https://www.etsy.com/listing/4465841166/just-pay-the-bill-woven-blanket-minimal?sr_prefetch=1&pf_from=shop_home&ref=shop_home_active_1'
   },
   {
-    name: 'Wall Calendar',
-    imageUrl: 'https://images.pexels.com/photos/5706901/pexels-photo-5706901.jpeg?auto=compress&cs=tinysrgb&w=400',
-    link: 'https://etsy.com/shop/yourshop/calendar'
+    name: 'Minimal 2026 Wall Calendar',
+    imageUrl: 'https://i.etsystatic.com/64850837/r/il/517413/7813169305/il_1588xN.7813169305_awzz.jpg',
+    link: 'https://www.etsy.com/listing/4465841040/minimal-2026-wall-calendar-vertical?sr_prefetch=1&pf_from=shop_home&ref=shop_home_active_2'
   },
   {
-    name: 'Premium Mattress',
-    imageUrl: 'https://images.pexels.com/photos/271897/pexels-photo-271897.jpeg?auto=compress&cs=tinysrgb&w=400',
-    link: 'https://etsy.com/shop/yourshop/mattress'
+    name: 'Just Pay the Bill Canvas',
+    imageUrl: 'https://i.etsystatic.com/64850837/r/il/8dceca/7765222096/il_1588xN.7765222096_4wxy.jpg',
+    link: 'https://www.etsy.com/listing/4465836561/just-pay-the-bill-canvas-matte-stretched?sr_prefetch=1&pf_from=shop_home&ref=shop_home_active_3'
   },
   {
-    name: 'Custom Portrait',
-    imageUrl: 'https://images.pexels.com/photos/1053924/pexels-photo-1053924.jpeg?auto=compress&cs=tinysrgb&w=400',
-    link: 'https://etsy.com/shop/yourshop/portrait'
+    name: 'Just Pay the Bill Mug',
+    imageUrl: 'https://i.etsystatic.com/64850837/r/il/c4be76/7813151699/il_1588xN.7813151699_81uq.jpg',
+    link: 'https://www.etsy.com/listing/4465838942/stay-groovy-coffee-mug-accent-black?sr_prefetch=1&pf_from=shop_home&ref=shop_home_active_4'
   }
 ];
 

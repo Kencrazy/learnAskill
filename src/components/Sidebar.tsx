@@ -26,10 +26,10 @@ const categories: Category[] = [
     name: 'Meme',
     icon: 'Laugh',
     socialLinks: {
-      youtube: 'https://youtube.com/@your-meme-channel',
-      facebook: 'https://facebook.com/your-meme-page',
-      instagram: 'https://instagram.com/your-meme-account',
-      tiktok: 'https://tiktok.com/@your-meme-account'
+      youtube: 'https://www.youtube.com/@ambatumeow/videos',
+      facebook: 'https://www.facebook.com/profile.php?id=61560072484609',
+      instagram: 'https://www.instagram.com/kenle5654/',
+      tiktok: 'https://www.tiktok.com/@ambatumeow?lang=en'
     }
   },
   {

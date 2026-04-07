@@ -14,7 +14,7 @@ export default function Header() {
         </div>
 
         <a
-          href="https://discord.gg/your-server"
+          href="https://discord.gg/gwNJxkSgsK"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-700 hover:to-blue-700 px-6 py-3 rounded-lg font-semibold text-white transition-all duration-300 hover:scale-105 shadow-lg whitespace-nowrap"

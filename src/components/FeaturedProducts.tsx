@@ -73,7 +73,7 @@ export default function FeaturedProducts() {
 
         <div className="mt-12 text-center">
           <a
-            href="https://etsy.com/shop/yourshop"
+            href="https://www.etsy.com/shop/LeDuyLoc?ref=profile_header"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 px-8 py-4 rounded-xl font-semibold text-white text-lg transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-emerald-500/50"
